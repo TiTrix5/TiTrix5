@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,100:0891b2&height=160&section=header&text=TiTrix5&fontSize=65&fontColor=0891b2&animation=scaleIn&fontFamily=Trebuchet%20MS&fontAlignY=40" alt="header" />
+  <a href="https://github.com/TiTrix5">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=600&height=100&lines=TiTrix5;Backend+Developer;C%2B%2B+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
 #  Arbi Galaev 🫩
 
