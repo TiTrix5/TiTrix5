@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=140&section=header&text=TiTrix5&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
 </p>
+ 
  Arbi Galaev
 
 ### Backend Developer • C++ Enthusiast
