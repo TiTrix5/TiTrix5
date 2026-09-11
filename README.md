@@ -93,25 +93,11 @@ I'm a backend developer focused on building robust and scalable web services.
 
 ---
 
-## 🐍 Contribution Snake
-
-<p>
-<img src="https://raw.githubusercontent.com/TiTrix5/TiTrix5/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 🏆 Top Repositories
 
 <a href="https://github.com/Barakhoev/java-task-management">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Barakhoev&repo=java-task-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="java-task-management" />
 </a>
-
----
-
-## 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
