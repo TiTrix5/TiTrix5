@@ -1,23 +1,11 @@
 <p align="center">
-<svg width="600" height="120" viewBox="0 0 600 120" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0891b2">
-        <animate attributeName="stop-color" values="#0891b2;#7c3aed;#0891b2" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#7c3aed">
-        <animate attributeName="stop-color" values="#7c3aed;#0891b2;#7c3aed" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  <rect width="600" height="120" rx="12" fill="url(#grad)"/>
-  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle"
-        font-family="JetBrains Mono, monospace" font-size="56" font-weight="700"
-        fill="#ffffff" letter-spacing="4">
-    TiTrix5
-    <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite"/>
-  </text>
-</svg>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:7c3aed&height=180&section=header&text=&fontSize=0" alt="" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/TiTrix5">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=64&duration=2000&pause=600&color=ffffff&center=true&vCenter=true&width=800&height=100&lines=TiTrix5" alt="TiTrix5" />
+  </a>
 </p>
 #  Arbi Galaev 🫩
 
