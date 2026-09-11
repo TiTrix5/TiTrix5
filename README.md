@@ -5,8 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Development
 -------------------
 
-![C++](https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif)
-
 I'm a backend developer focused on building robust and scalable web services.
 
 *   🌍  I'm based in Ingushetiya-Russian
