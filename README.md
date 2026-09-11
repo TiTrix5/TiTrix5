@@ -1,7 +1,5 @@
 <div align="center">
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1200&pause=1000000000&color=00FF41&background=0D1117&center=false&vCenter=false&width=650&height=300&cursor=false&lines=%23include+%3Ciostream%3E;using+namespace+std%3B;int+main()+%7B;++++string+name+%3D+%22TiTrix5%22%3B;++++cout+%3C%3C+name%3B;++++return+0%3B;%7D;%3E+TiTrix5" alt="C++ animation" />
-
+  <img src="./typing.svg" alt="C++ typing animation" />
 </div>
 #  Arbi Galaev 🫩
 
