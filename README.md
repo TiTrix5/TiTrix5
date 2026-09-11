@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=1500&pause=300&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=%3E+Initializing...;%3E+Loading+TiTrix5.exe;%3E+Backend+Developer;%3E+Ready." alt="Matrix" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1200&pause=500&color=00FF41&background=0D1117&center=false&vCenter=false&width=600&height=300&lines=%23include+%3Ciostream%3E;using+namespace+std%3B;int+main()+%7B;++++int+x+%3D+42%3B;++++cout+%3C%3C+x%3B;++++return+0%3B;%7D;%3E+42" alt="C++ animation" />
 #  Arbi Galaev 🫩
 
 ### Backend Developer • C++ Enthusiast
