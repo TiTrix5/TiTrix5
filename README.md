@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TiTrix5/TiTrix5/main/typing.svg" alt="C++ typing animation" width="700" />
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=1500&pause=300&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=%3E+Initializing...;%3E+Loading+TiTrix5.exe;%3E+Backend+Developer;%3E+Ready." alt="Matrix" />
 #  Arbi Galaev 🫩
 
 ### Backend Developer • C++ Enthusiast
