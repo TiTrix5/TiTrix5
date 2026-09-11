@@ -1,10 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=140&section=header&text=TiTrix5&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
-</p>
+<div align="center">
 
-#                                                                               Arbi Galaev
+# Hi 👋 My name is Arbi Galaev
 
 ### Backend Developer • C++ Enthusiast
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="JavaScript" title="JavaScript" width="80" height="80" /><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="JavaScript" title="JavaScript" width="80" height="80" /><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5fc4c6e3c1e.gif" alt="Python" title="Python" width="80" height="80" />
 
