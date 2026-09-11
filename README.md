@@ -1,45 +1,120 @@
-Make it easy for people using your products to support you or give donations.
-Previous
-buymeacoffeeBuy Me a Coffee:
-kofiKo-fi:
-Previous
-Reorder Sections
-Preview
-Markdown
-Copy
+# Hi 👋 My name is Arbi Galaev
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Arbi Galaev
-====================================================================================================================================
+### Backend Developer • C++ Enthusiast
 
-Beck End Development
---------------------
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="C++" width="80" height="80" /><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="JavaScript" width="80" height="80" /><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5fc4c6e3c1e.gif" alt="Python" width="80" height="80" />
+
+![Location](https://img.shields.io/badge/Location-Ingushetiya%2C%20Russia-0891b2?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Internship-00c853?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=TiTrix5&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS)
+
+---
+
+## 👨‍💻 About Me
 
 I'm a backend developer focused on building robust and scalable web services.
 
-*   🌍  I'm based in Ingushetiya-Russian
-*   🖥️  See my portfolio at [MyPortfolio](http://https://github.com/Barakhoev/java-task-management)
-*   ✉️  You can contact me at [ham.2019ham5544@gmail.com](mailto:ham.2019ham5544@gmail.com)
-*   🚀  I'm currently working on [I'm not working on anything right now.](http://https://github.com/TiTrix5/TiTrix5)
-*   🧠  I'm currently learning I am currently studying at college and preparing for an internship.
-*   👥  I'm looking to collaborate on I’m ready to take part in a simple project to gain experience.
-*   💬  Ask me about I am a beginner C++ developer.
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-                  </p>
-                  
-<a href="https://www.github.com/TiTrix5" target="_blank" rel="noreferrer"><img
-                src="https://img.shields.io/github/followers/TiTrix5?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+- 🌍 I'm based in Ingushetiya, Russia
+- 🖥️ See my portfolio at [MyPortfolio](https://github.com/Barakhoev/java-task-management)
+- ✉️ You can contact me at [ham.2019ham5544@gmail.com](mailto:ham.2019ham5544@gmail.com)
+- 🚀 I'm currently working on [I'm not working on anything right now.](https://github.com/TiTrix5/TiTrix5)
+- 🧠 I'm currently learning — I am studying at college and preparing for an internship.
+- 👥 I'm looking to collaborate on — I'm ready to take part in a simple project to gain experience.
+- 💬 Ask me about — I am a beginner C++ developer.
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠️ Tech Stack
 
-<a href="http://www.github.com/TiTrix5"><img src="https://github-readme-stats.vercel.app/api?username=TiTrix5&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="TiTrix5's GitHub stats" /></a>
+<p>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="48" height="48" />
+</p>
 
-<a href="http://www.github.com/TiTrix5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TiTrix5&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### Also working with
 
-<a href="https://github.com/TiTrix5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiTrix5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/TiTrix5/https://github.com/Barakhoev/java-task-management" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=TiTrix5&repo=https://github.com/Barakhoev/java-task-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+## 🌐 Socials
+
+<p>
+<a href="https://www.github.com/TiTrix5" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="48" height="48" alt="GitHub" title="GitHub" />
+</a>
+<a href="https://www.github.com/TiTrix5" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/TiTrix5?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Followers" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+<a href="https://github.com/TiTrix5">
+<img src="https://github-readme-stats.vercel.app/api?username=TiTrix5&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="TiTrix5's GitHub stats" />
+</a>
+</p>
+
+<p>
+<a href="https://github.com/TiTrix5">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TiTrix5&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</a>
+</p>
+
+<p>
+<a href="https://github.com/TiTrix5">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiTrix5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p>
+<img src="https://raw.githubusercontent.com/TiTrix5/TiTrix5/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 🏆 Top Repositories
+
+<a href="https://github.com/Barakhoev/java-task-management">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Barakhoev&repo=java-task-management&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="java-task-management" />
+</a>
+
+---
+
+## 💭 Quote of the Day
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+
+<p align="center">
+⭐️ From <a href="https://github.com/TiTrix5">TiTrix5</a>
+</p>
