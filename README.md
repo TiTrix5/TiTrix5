@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=140&section=header&text=TiTrix5&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1c1917&height=120&section=header&text=TiTrix5&fontSize=60&fontColor=0891b2&animation=fadeIn&fontAlignY=50" alt="header" />
 </p>
 
 #  Arbi Galaev 🫩
