@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:7c3aed&height=180&section=header&text=&fontSize=0" alt="" />
-</p>
-
-<p align="center">
   <a href="https://github.com/TiTrix5">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=64&duration=2000&pause=600&color=ffffff&center=true&vCenter=true&width=800&height=100&lines=TiTrix5" alt="TiTrix5" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=80&duration=4000&pause=99999&color=0891B2&center=true&vCenter=true&width=700&height=120&lines=TiTrix5&cursor=false" alt="TiTrix5" />
   </a>
 </p>
 #  Arbi Galaev 🫩
