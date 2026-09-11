@@ -103,3 +103,11 @@ I'm a backend developer focused on building robust and scalable web services.
 <p align="center">
 ⭐️ From <a href="https://github.com/TiTrix5">TiTrix5</a>
 </p>
+
+</p>
+
+---
+
+## 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TiTrix5&theme=react-dark&hide_border=true&bg_color=1c1917&color=0891b2&line=0891b2&point=ffffff)](https://github.com/TiTrix5)
