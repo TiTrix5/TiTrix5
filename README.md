@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/TiTrix5">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=80&duration=4000&pause=99999&color=0891B2&center=true&vCenter=true&width=700&height=120&lines=TiTrix5&cursor=false" alt="TiTrix5" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=1500&pause=300&color=00FF41&center=true&vCenter=true&width=700&height=100&lines=%3E+Initializing...;%3E+Loading+TiTrix5.exe;%3E+Backend+Developer;%3E+Ready." alt="Matrix" />
 #  Arbi Galaev 🫩
 
 ### Backend Developer • C++ Enthusiast
