@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./typing.svg" alt="C++ typing animation" />
+  <img src="https://raw.githubusercontent.com/TiTrix5/TiTrix5/main/typing.svg" alt="C++ typing animation" width="700" />
 </div>
 #  Arbi Galaev 🫩
 
